@@ -1,0 +1,4 @@
+baseURL = "https://imagequotesbyalih.vercel.app"
+languageCode = "en-us"
+title = "Image Quotes On Life"
+theme = "tale-hugo-master"
